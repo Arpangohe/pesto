@@ -11,7 +11,7 @@ export default function ContactInfo() {
             </div>
             <h3 className="text-xl font-bold mb-3">Our Location</h3>
             <p>
-              Neelbad, Bhopal
+              S104, JK Rd, Minal Residency, Bhopal
               <br />
               Madhya Pradesh - 462044
             </p>
