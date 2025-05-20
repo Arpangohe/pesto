@@ -195,7 +195,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-6 text-center">
-          <p>&copy; {new Date().getFullYear()} The Pestology. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} The Pestology. All Rights Reserved. Developed by Arpan Gohe(TechRooot Technology)</p>
         </div>
       </div>
     </footer>
