@@ -36,7 +36,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="logo">
             <Link href="/" onClick={closeMenu}>
-              <Image src="https://i.ibb.co/4nxTTtbb/pestologo.png" alt="The Pestology" width={600} height={200} />
+              <Image src="https://i.ibb.co/4nxTTtbb/pestologo.png" alt="The Pestology" width={300} height={100} />
             </Link>
           </div>
 
