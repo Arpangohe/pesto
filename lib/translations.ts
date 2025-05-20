@@ -259,15 +259,15 @@ export const translations = {
     post_servicel4: "Treatment of wooden structures and furniture",
     post_servicel5: "3-year service warranty with annual inspections",
 
-    Termiteh: "Termite Baiting System",
-    Termitehp:
-      "Our advanced baiting system uses termites' own behavior against them, effectively eliminating entire colonies without the need for extensive chemical treatment.",
+    Termiteh: "Termite Porous Piping",
+   Termitehp:
+"Termite porous piping is used in anti termite or pest control treatment by inserting it under the flooring at the time of construction. The pipe is installed anywhere between six to 12 inches below the flooring on the border of the house or apartment. Outlets are kept outside which can be used to pump in anti termite pesticides every 6 months or so.",
     price: "Starting from ₹25,000 for residential installation",
-    Termite_servicel1: "Installation of monitoring stations around your property",
-    Termite_servicel2: "Use of cellulose-based monitors to detect termite activity",
-    Termite_servicel3: "Replacement of monitors with active bait once termites are detected",
-    Termite_servicel4: "Colony elimination through the social feeding habits of termites",
-    Termite_servicel5: "Regular monitoring and maintenance of bait stations",
+    Termite_servicel1: "Installation of porous piping system during construction phase",
+    Termite_servicel2: "Strategic placement around property perimeter for maximum protection",
+    Termite_servicel3: "External access points for easy pesticide application",
+    Termite_servicel4: "Biannual treatment to maintain continuous protection",
+    Termite_servicel5: "Long-term preventative solution requiring minimal disruption",
 
     Chemicalh: "Chemical Barrier Treatment",
     Chemicalp:
@@ -615,15 +615,15 @@ export const translations = {
     post_servicel4: "लकड़ी के ढांचे और फर्नीचर का उपचार",
     post_servicel5: "वार्षिक निरीक्षण के साथ 3 साल की सेवा वारंटी",
 
-    Termiteh: "दीमक बेटिंग सिस्टम",
+    Termiteh: "दीमक पोरस पाइपिंग",
     Termitehp:
-      "हमारा उन्नत बेटिंग सिस्टम दीमकों के अपने व्यवहार का उपयोग उनके खिलाफ करता है, व्यापक रासायनिक उपचार की आवश्यकता के बिना पूरी कॉलोनियों को प्रभावी ढंग से खत्म करता है।",
+      "दीमक पोरस पाइपिंग का उपयोग निर्माण के समय फर्श के नीचे डालकर एंटी टरमाइट या कीट नियंत्रण उपचार में किया जाता है। पाइप को घर या अपार्टमेंट की सीमा पर फर्श के नीचे छह से 12 इंच के बीच कहीं भी स्थापित किया जाता है। आउटलेट बाहर रखे जाते हैं जिनका उपयोग हर 6 महीने में एंटी टरमाइट कीटनाशकों को पंप करने के लिए किया जा सकता है।",
     price: "आवासीय स्थापना के लिए ₹25,000 से शुरू",
-    Termite_servicel1: "आपकी संपत्ति के चारों ओर निगरानी स्टेशनों की स्थापना",
-    Termite_servicel2: "दीमक गतिविधि का पता लगाने के लिए सेलुलोज-आधारित मॉनिटर का उपयोग",
-    Termite_servicel3: "दीमकों का पता लगने पर मॉनिटर को सक्रिय चारा से बदलना",
-    Termite_servicel4: "दीमकों की सामाजिक खिलाने की आदतों के माध्यम से कॉलोनी उन्मूलन",
-    Termite_servicel5: "चारा स्टेशनों की नियमित निगरानी और रखरखाव",
+    Termite_servicel1: "निर्माण चरण के दौरान पोरस पाइपिंग सिस्टम की स्थापना",
+    Termite_servicel2: "अधिकतम सुरक्षा के लिए संपत्ति परिधि के चारों ओर रणनीतिक स्थापना",
+    Termite_servicel3: "कीटनाशक के आसान अनुप्रयोग के लिए बाहरी पहुंच बिंदु",
+    Termite_servicel4: "निरंतर सुरक्षा बनाए रखने के लिए अर्धवार्षिक उपचार",
+    Termite_servicel5: "न्यूनतम व्यवधान वाला दीर्घकालिक निवारक समाधान",
 
     Chemicalh: "रासायनिक बैरियर ट्रीटमेंट",
     Chemicalp:
