@@ -47,7 +47,7 @@ export default function Footer() {
                 <span className="text-green-500 mr-3 mt-1">
                   <i className="fas fa-map-marker-alt"></i>
                 </span>
-                <span>First Floor, Minal Mall, FF104, JK Rd, Minal Residency, Bhopal, Madhya Pradesh 462023</span>
+                <span>S104, First Floor, JK Rd, Minal Residency, Bhopal, Madhya Pradesh 462023</span>
               </p>
               <p className="flex items-center">
                 <span className="text-green-500 mr-3">
