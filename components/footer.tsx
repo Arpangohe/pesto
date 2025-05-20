@@ -36,11 +36,11 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           <div className="footer-info">
-            <div className="footer-logo">
-              <h2 className="text-2xl font-bold mb-4">
-                The<span className="text-green-500">Pestology</span>
-              </h2>
-            </div>
+           <div className="logo">
+            <Link href="/" onClick={closeMenu}>
+              <Image src="https://i.ibb.co/cKxfW6vt/pestologo-2-removebg-preview.png" alt="The Pestology" width={300} height={150} />
+            </Link>
+          </div>
             <p className="mb-6">Professional facility solutions for residential and commercial properties.</p>
             <div className="contact-info space-y-3">
               <p className="flex items-start">
