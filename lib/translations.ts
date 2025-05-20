@@ -136,7 +136,7 @@ export const translations = {
     Termitel1: "Pre-Construction Treatment",
     Termitel2: "Post-Construction Treatment",
     Termitel3: "Termite Inspection",
-    Termitel4: "Termite Baiting Systems",
+    Termitel4: "Termite Porous Piping",
     Termitel5: "Preventative Measures",
 
     Learn: "Learn More",
@@ -494,7 +494,7 @@ export const translations = {
     Termitel1: "पूर्व-निर्माण उपचार",
     Termitel2: "पोस्ट-निर्माण उपचार",
     Termitel3: "दीमक निरीक्षण",
-    Termitel4: "दीमक बेटिंग सिस्टम",
+    Termitel4: "दीमक पोरस पाइपिंग",
     Termitel5: "निवारक उपाय",
 
     Learn: "और जानें",
